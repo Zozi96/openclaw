@@ -545,6 +545,7 @@ describe("runCodexAppServerAttempt", () => {
           "hooks.PreToolUse": [],
           "hooks.PostToolUse": [],
           "hooks.PermissionRequest": [],
+          "hooks.Stop": [],
         },
       }),
     );
