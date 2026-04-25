@@ -359,7 +359,6 @@ const TARGET_KEYS = [
   "plugins.entries.*.apiKey",
   "plugins.entries.*.env",
   "plugins.entries.*.config",
-  "plugins.installs",
   "auth",
   "auth.cooldowns",
   "models",
